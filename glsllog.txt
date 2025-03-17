@@ -1,0 +1,3 @@
+
+ERROR: 0:11: Regular non-array variable 'OBJECTCOLOR' may not be redeclared
+
